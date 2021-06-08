@@ -10,9 +10,9 @@ const CONFIG = {
     btnYes: 'Em thích anh rùi',
     btnNo: 'Dở hơi à',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho bae <3',
     reply: 'Thích thì yêu',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón đi uống bia nhé.',
+    mess: 'Biết mà 🥰. Yêu Google Map nhìuuuuu',
+    messDesc: 'Tối nay 8h anh đón đi chơi nhá .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/quocanh.quocem'
